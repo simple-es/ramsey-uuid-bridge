@@ -4,10 +4,10 @@
  * @license https://github.com/simple-es/ramsey-uuid-bridge/blob/master/LICENSE MIT
  */
 
-namespace SimpleES\RamseyUuidBridge\Generator;
+namespace SimpleES\RamseyUuidBridge\Identifier;
 
 use Rhumsaa\Uuid\Uuid as RhumsaaGenerator;
-use SimpleES\EventSourcing\Generator\GeneratesIdentifiers;
+use SimpleES\EventSourcing\Identifier\GeneratesIdentifiers;
 
 /**
  * @copyright Copyright (c) 2015 Future500 B.V.

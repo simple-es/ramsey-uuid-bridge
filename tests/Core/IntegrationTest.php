@@ -6,7 +6,7 @@
 
 namespace SimpleES\RamseyUuidBridge\Test\Core;
 
-use SimpleES\RamseyUuidBridge\Generator\UuidGenerator;
+use SimpleES\RamseyUuidBridge\Identifier\UuidGenerator;
 
 /**
  * @copyright Copyright (c) 2015 Future500 B.V.
