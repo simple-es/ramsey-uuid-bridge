@@ -3,7 +3,7 @@
   "description": "A bridge for using Rhumsaa Uuid to generate UUIDs",
   "type": "library",
   "keywords": ["simple", "simplees", "simple-es", "uuid"],
-  "homepage": "https://github.com/simple-es/ramsey-uuid-bridge",
+  "homepage": "https://simple-es.github.io",
   "license": "MIT",
   "authors": [
     {
