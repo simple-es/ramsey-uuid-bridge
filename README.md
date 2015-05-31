@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/simple-es/ramsey-uuid-bridge.svg?branch=master)](https://travis-ci.org/simple-es/ramsey-uuid-bridge)
 
-A bridge for using [Rhumsaa Uuid][uuid] to generate UUIDs in [SimpleES \ EventSourcing][eventsourcing].
+A bridge for using [Ramsey Uuid][uuid] to generate UUIDs in [SimpleES \ EventSourcing][eventsourcing].
 
 Authored by [Jasper N. Brouwer][jaspernbrouwer].
 

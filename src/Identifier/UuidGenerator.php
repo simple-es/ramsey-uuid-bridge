@@ -6,7 +6,7 @@
 
 namespace SimpleES\RamseyUuidBridge\Identifier;
 
-use Rhumsaa\Uuid\Uuid as RhumsaaGenerator;
+use Rhumsaa\Uuid\Uuid;
 use SimpleES\EventSourcing\Identifier\GeneratesIdentifiers;
 
 /**
@@ -20,6 +20,6 @@ final class UuidGenerator implements GeneratesIdentifiers
      */
     public function generateIdentifier()
     {
-        return (string) RhumsaaGenerator::uuid4();
+        return (string) Uuid::uuid4();
     }
 }
