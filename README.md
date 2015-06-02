@@ -1,6 +1,8 @@
 # SimpleES \ RamseyUuidBridge
 
 [![Build Status](https://travis-ci.org/simple-es/ramsey-uuid-bridge.svg?branch=master)](https://travis-ci.org/simple-es/ramsey-uuid-bridge)
+[![Code Coverage](https://scrutinizer-ci.com/g/simple-es/ramsey-uuid-bridge/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/simple-es/ramsey-uuid-bridge/?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/simple-es/ramsey-uuid-bridge/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/simple-es/ramsey-uuid-bridge/?branch=master)
 
 A bridge for using [Ramsey Uuid][uuid] to generate UUIDs in [SimpleES \ EventSourcing][eventsourcing].
 
